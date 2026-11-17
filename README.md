@@ -22,24 +22,34 @@ Este site foi feito para praticar os fundamentos de uma página real: estrutura 
 
 
 
-- HTML para estruturar páginas de forma clara e semântica
-- 
-- CSS para criar layouts responsivos e interfaces bem organizadas
-- 
-- Design para melhorar espaçamento, hierarquia e experiência visual
-- 
+**HTML** — estrutura e semântica das páginas  
+
+**CSS** — layouts responsivos e interfaces organizadas  
+
+**Design** — espaçamento, hierarquia e clareza visual
+
 
 
 ## Projetos apresentados
 
 
 
-- **Meu primeiro site** — minha primeira apresentação pessoal na web.
-- 
-- **Landing page** — exercício de hierarquia visual e responsividade.
-- 
-- **Lista de tarefas** — prática de organização de conteúdo e interface.
-- 
+**Meu primeiro site**  
+
+Minha primeira apresentação pessoal na web.
+
+
+
+**Landing page**  
+
+Exercício de hierarquia visual e responsividade.
+
+
+
+**Lista de tarefas**  
+
+Prática de organização de conteúdo e interface.
+
 
 
 ## Tecnologias
@@ -62,10 +72,8 @@ Este site foi feito para praticar os fundamentos de uma página real: estrutura 
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/davisilvia)
-- 
-- [E-mail](mailto:Davifsilva133@gmail.com)
-- 
+[LinkedIn](https://www.linkedin.com/in/davisilvia) · [E-mail](mailto:Davifsilva133@gmail.com)
+
 
 
 ---
@@ -73,11 +81,3 @@ Este site foi feito para praticar os fundamentos de uma página real: estrutura 
 
 
 Feito por Davi enquanto construo minha base em tecnologia.
-
-
-
-
-
-
-
-
